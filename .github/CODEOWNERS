@@ -1,5 +1,5 @@
 # CODEOWNERS file
 # This assigns ownership to specific users or teams for paths in the repository.
 
-/user/ @SKS Techrish
-/user/github
+/user/ @mvs
+
