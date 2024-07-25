@@ -2,7 +2,7 @@
 # This assigns ownership to specific users or teams for paths in the repository.
 
 # Restrict access to testfolder to only mvs
-/user/ @SKS Techrish
+/user/ @mvs
 
 # Allow equal access to normal folder for both mvs and testuser
 /normal/ @mvs @testuser
