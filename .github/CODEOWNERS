@@ -6,3 +6,7 @@
 
 # Allow equal access to normal folder for both mvs and testuser
 /normal/ @mvs @testuser
+
+
+/user/ @mvs
+/user/github
